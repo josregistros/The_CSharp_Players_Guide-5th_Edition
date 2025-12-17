@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consolas_and_Telim", "Consolas_and_Telim\Consolas_and_Telim.csproj", "{630F7144-0B62-41E3-A44F-C27ACD30DB20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Defense_Of_Consolas", "The_Defense_Of_Consolas\The_Defense_Of_Consolas.csproj", "{37B7A858-D2B5-447D-A63B-01538C98FDAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{630F7144-0B62-41E3-A44F-C27ACD30DB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{630F7144-0B62-41E3-A44F-C27ACD30DB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{630F7144-0B62-41E3-A44F-C27ACD30DB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B7A858-D2B5-447D-A63B-01538C98FDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B7A858-D2B5-447D-A63B-01538C98FDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B7A858-D2B5-447D-A63B-01538C98FDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B7A858-D2B5-447D-A63B-01538C98FDAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
